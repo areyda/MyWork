@@ -8,4 +8,4 @@ number2 = number + 1
 print (number2)
 
 # Using format function instead of int function for str vs int
-print (" {} plus one is {} " .format (number, number2))
+print ("{} plus one is {} " .format (number, number2))

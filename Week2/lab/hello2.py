@@ -16,7 +16,7 @@ print ("Hello " + name + "\nNice to meet you ")
 print ("Hello {} ".format (name))
 
 # format function - tab separation for greeting 
-print ("Hello {} \tNice to meet you " . format (name))
+print ("Hello {} \tNice to meet you " .format (name))
 
 # format fucntion - new line separation for greeting
 print ("Hello {} \nNice to meet you " .format (name))
